@@ -46,6 +46,8 @@ If your router and printer support WPS:
 - Choose the **wireless connection** option
 - Follow the on-screen instructions to connect the printer to Wi-Fi
 
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
+
 4. Add Wireless Printer to Windows 11/10
 ----------------------------------------
 
