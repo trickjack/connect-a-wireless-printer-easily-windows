@@ -3,7 +3,7 @@ How to Connect a Wireless Printer to Windows 11/10
 
 To connect a wireless printer easily on Windows, turn on the printer and connect it to your Wi-Fi network. Go to **Settings > Devices > Printers & scanners > Add a printer**. Select your printer from the list and follow prompts. Install drivers if prompted to complete the setup successfully.
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
 1. Introduction to Wireless Printing
 -----------------------------------
@@ -46,7 +46,7 @@ If your router and printer support WPS:
 - Choose the **wireless connection** option
 - Follow the on-screen instructions to connect the printer to Wi-Fi
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
 4. Add Wireless Printer to Windows 11/10
 ----------------------------------------
